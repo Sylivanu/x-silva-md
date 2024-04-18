@@ -1,0 +1,225 @@
+#============================================================================================#   
+#                                      SILVA －MD                                             # 
+#                                                                                             # 
+#                                  X-SILVA-MD V1                                              # 
+#                                                                                             # 
+#                                                                                             # 
+#=============================================================================================# 
+#                                                                 
+#    * @project_name : Silva-Md
+#    * @author : @SilvaTech
+#    * @youtube : https://www.tiktok.com/@silva.edits6
+#    * @description : Silva-Md ,A Multi-functional whatsapp bot md.
+#    * @version 2.5.0
+# 
+# Don't change this [ /SilvaTech/ ] name!
+# Change from below link, else bot will not work!
+
+ 
+
+FROM quay.io/Sylivanu/x-silva-md
+RUN git clone https://github.com/Sylivanu/x-silva-md /root/silva
+WORKDIR /root/silva
+RUN npm install
+EXPOSE 8000
+CMD ["npm","start" ] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# heroku.yml file data to run Container
+# build:
+#   docker:
+#       web: Silva_Md
+# run:
+#   web: npm start
