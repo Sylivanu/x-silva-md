@@ -3,34 +3,21 @@
 //                                                                                            //
 //                                ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ ＢＥＴＡ                          //
 //                                                                                            // 
-//                                         Ｖ：2．5．0                                         // 
-//                                                                                            // 
-//                                                                                            // 
-//          ██████╗ ██╗███████╗████████╗███████╗██████╗     ███╗   ███╗██████╗                // 
-//         ██╔════╝ ██║██╔════╝╚══██╔══╝██╔════╝██╔══██╗    ████╗ ████║██╔══██╗               // 
-//         ██║  ███╗██║█████╗     ██║   █████╗  ██║  ██║    ██╔████╔██║██║  ██║               // 
-//         ██║   ██║██║██╔══╝     ██║   ██╔══╝  ██║  ██║    ██║╚██╔╝██║██║  ██║               // 
-//         ╚██████╔╝██║██║        ██║   ███████╗██████╔╝    ██║ ╚═╝ ██║██████╔╝               // 
-//          ╚═════╝ ╚═╝╚═╝        ╚═╝   ╚══════╝╚═════╝     ╚═╝     ╚═╝╚═════╝                //
-//                                                                                            //
-//                                                                                            //
-//                                                                                            //
-//                                                                                            //
 //════════════════════════════════════════════════════════════════════════════════════════════//
 *                                                                 
-  * @project_name : Gifted-Md
-   * @author : Gifted Tech Info
-   * @youtube : https://www.youtube.com/@giftedtechnexus
-   * @description : Gifted-Md ,A Multi-functional whatsapp user bot.
+  * @project_name : SILVA-Md
+   * @author : SILVA Tech Info
+   * @youtube : https://www.tiktok.com/@silva.edits6
+   * @description : Silva-Md ,A Multi-functional whatsapp user bot.
    * @version 2.5.0
 *
 * 
-   * Created By Gifted Tech Info.
-   * © 2024 Gifted-Md.
+   * Created By Silva Tech Info.
+   * © 2024 Silva-Md.
 
 
 */
-let Gifted_Md = "Gifted MD Whatsapp bot md"
+let Gifted_Md = "Silva MD Whatsapp bot md"
 
 
 
