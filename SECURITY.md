@@ -12,4 +12,4 @@
 ## Reporting a Vulnerability
 
 To Report a Bug, Kindly Make an Issue on the Repo and Clearly State What the Bug is ABout.
-### Gifted Tech
+### SILVA Tech
