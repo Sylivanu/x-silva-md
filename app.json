@@ -1,7 +1,7 @@
 {
   "name": "gifted-md@2.5.0",
   "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better\n\t if Any Problem Whatsapp Me on: +254728782591",
-  "logo": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
+  "logo": "https://telegra.ph/file/bf328b6925882b2644535.jpg",
   "keywords": ["whatsappbot", "giftedlMd", "gifted Md bot", "Gifted-Md", "GiftedMdWhatsaooBot", "GiftedWaBot","GiftedMD","Gifted Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "app_url": "/qr/",
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Gifted Tech",
+      "value": "⏤͟͟͞͞★𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋²⁰²⁴࿐",
       "required" :true
     },   
      
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "ɢɪғᴛᴇᴅ-ᴍᴅ"
+      "value": "⏤͟͟͞͞★𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋²⁰²⁴࿐"
     }, 
     "USER_IMAGES": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg"
+      "value": "https://telegra.ph/file/bf328b6925882b2644535.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -128,12 +128,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Gifted Md",
+      "value": "⏤͟͟͞͞★𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋²⁰²⁴࿐",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "Gifte Tech",
+      "value": "⏤͟͟͞͞★𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋²⁰²⁴࿐",
       "required": false 
     },
     "STACK": {
